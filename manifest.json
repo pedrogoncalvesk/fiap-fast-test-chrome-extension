@@ -1,0 +1,11 @@
+{
+  "name": "FIAP Fast Test Extractor",
+  "description": "Extension for extract question and answers from Fast Tests from FIAP ON Portal",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup/index.html",
+    "default_icon": "images/fiap-240x240.png"
+  }
+}
